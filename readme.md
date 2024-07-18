@@ -1,4 +1,4 @@
-# SGD and Weight Decay Provably Induce a Low-Rank Bias in Deep Neural Networks
+# Norm-Based Generalization Bounds for Compositionally Sparse Neural Networks
 
 ## Requirements
 - Python 3.10
