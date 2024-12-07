@@ -43,7 +43,7 @@ The project investigates the role of architectural sparsity in convolutional net
      ```
 
 <br />
-
+<hr> 
 ### Example Experimental Results  
 *(For more details, refer to the paper)*  
 
@@ -63,7 +63,6 @@ Use the following training configuration:
 - **Loss function**: Mean Squared Error (MSE)
 - **Weight normalization**: Applied to all trainable layers except the last layer, which remains un-normalized
 - **Regularization parameter**: 3e-3
-<hr> 
 <hr> 
 <h3> Citation </h3>
 
