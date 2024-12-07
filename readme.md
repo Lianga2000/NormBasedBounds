@@ -7,7 +7,7 @@ The project investigates the role of architectural sparsity in convolutional net
 
 ### Key Contributions
 - **Tighter Generalization Bounds**: Establishes significantly tighter norm-based generalization bounds for sparse neural networks (e.g., convolutional networks), improving upon previous bounds.
-- **Insights into Architecture Sparsity**: Demonstrates the pivotal influence of sparsity in convolutional architectures on test-time performance.
+- **Insights into Architecture Sparsity**: Demonstrates the pivotal influence of sparsity in convolutional architectures on generalization.
 - **Experimental Validation**: Provides empirical evidence showing the bounds' tightness and effectiveness in comparison to prior work.
 
 ## Requirements
