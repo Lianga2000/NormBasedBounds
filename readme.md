@@ -44,6 +44,7 @@ The project investigates the role of architectural sparsity in convolutional net
 
 <br />
 <hr> 
+
 ### Example Experimental Results  
 *(For more details, refer to the paper)*  
 
